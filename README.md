@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @sb1305
 - 👀 I’m interested in Problem Solving.
 - 🌱 I’m currently learning Deep learning and its algorithms.
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me --- LinkedIn https://www.linkedin.com/in/sarthak-bansal-71800b167/
 
 <!---
